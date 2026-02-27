@@ -14,3 +14,4 @@ It's a collection of design patterns and best practices curated by JM to enhance
 - [Components in React](./guides/react-components.md)
 - [Next.js - how to](./guides/nextjs-guide.md)
 - [Production systems principles](./guides/production-systems-principles.md)
+- [Web Design Guidelines](./guides/web-design-guidelines.md)
